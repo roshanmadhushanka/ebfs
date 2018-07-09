@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e295322-e579-48d2-8cc8-6ab64ef81b3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BSB.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MRK.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ODD.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/a6.avi" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/h5.avi" afterPath="" />
-    </list>
+    <list default="true" id="6e295322-e579-48d2-8cc8-6ab64ef81b3a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_Prediction_Video.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04_Prediction_Video.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_Prediction_Video.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="764">
               <caret line="107" column="2" lean-forward="false" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_Convert_CSV_to_Numpy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_Convert_CSV_to_Numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1333">
+              <caret line="103" column="81" lean-forward="false" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -437,6 +440,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="103" column="81" lean-forward="false" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,6 +519,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,6 +589,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -728,13 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Convert_CSV_to_Numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="103" column="81" lean-forward="false" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Convert_CSV_to_Numpy_without_dropping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -759,6 +758,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="764">
           <caret line="107" column="2" lean-forward="false" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Convert_CSV_to_Numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1333">
+          <caret line="103" column="81" lean-forward="false" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="81" />
           <folding />
         </state>
       </provider>
